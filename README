@@ -88,6 +88,7 @@ RN6.1 - Pode envolver duas Equipes (EN3) ou dois Atletas (EN4) na modalida de te
 
 Titulo: MD1 - Marketing
 Descricao: Area para gerenciamento de banners (EN1) do site
+Prioridade: média
 Perfil de acesso: PF2
 Diretorio: mkt/
 Requisitos:
@@ -101,6 +102,7 @@ RQ1.4 - Solicitar orcamento (nao precisa estar logado... nem ser cliente)
 
 Titulo: MD2 - Equipes
 Descricao: Area para gerenciamento de equipes EN3
+Prioridade: alta
 Perfil de acesso: PF3, PF4
 Requisitos:
 RQ2.1 - Autenticacao de usuarios (PF3 3 PF4)
@@ -118,6 +120,7 @@ RQ2.10 - Edição de jogo (EN6)
 
 Titulo: MD3 - Escolas
 Descricao: Area para gerenciamento de equipes de escolas
+Prioridade: alta
 Perfil de acesso: PF3, PF4
 Requisitos:
 RQ3.1 - Autenticacao de usuarios (PF3 3 PF4)
@@ -138,6 +141,7 @@ RQ3.11 - Cadastro de Equipe (EN3)
 
 Titulo: MD4 - Agenda
 Descricao: Area para visualizacao de jogos
+Prioridade: alta
 Perfil de acesso: PF5 (todos)
 Requisitos:
 RQ4.1 - Visualizacao de jogos cadastrados
@@ -147,17 +151,28 @@ RQ4.2 - Possibilidade de cadastrar jogos de variados esportes (wiki)
 
 Titulo: MD5 - Site
 Descricao: Site institucional
+Prioridade: alta
 Perfil de acesso: PF5 (todos)
 Requisitos:
 RQ5.1 -
 RQ5.2 -
 
-
 --
 
 Titulo: MD6 - Olheiros
 Descricao: Area para consulta de atletas (EN4)
+Prioridade: média
 Perfil de acesso: PF6
 Requisitos:
 RQ6.1 -
 RQ6.2 -
+
+--
+
+Titulo: MD7 - Acesso Mobile
+Descricao: Consulta de jogos por telefone (mobile)
+Prioridade: baixa
+Perfil de acesso: PF5
+Requisitos:
+RQ7.1 -
+RQ7.2 -
