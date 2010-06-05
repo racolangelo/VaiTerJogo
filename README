@@ -174,5 +174,15 @@ Descricao: Consulta de jogos por telefone (mobile)
 Prioridade: baixa
 Perfil de acesso: PF5
 Requisitos:
-RQ7.1 -
-RQ7.2 -
+RQ7.1 - Consulta de jogos (EN6) por acesso mobile
+RQ7.2 - Cadastro de jogos (EN6) por acesso mobile
+
+
+--
+
+Titulo: MD8 - Integração com Twitter
+Descricao: desenvolver processo agendado para twittar jogos cadastrados
+Prioridade: baixa
+Perfil de acesso: PF5
+Requisitos:
+RQ8.1 - Twittar jogos cadastrados
