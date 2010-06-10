@@ -49,6 +49,12 @@ Descricao: EN1 - Banner
 Regras de Negocio:
 RN1.1 - Devem ficar publicados por um determinado periodo contratado, e após devem ser expirados
 
+
+Descricao: EN7 - Clube
+Regras de Negocio:
+RN7.1 - Esta entidade é a origem da cobrança;
+RN7.2 - Origem das equipes (1-N);
+
 --
 
 Descricao: EN2 - Escola
